@@ -1,0 +1,114 @@
+
+body{
+    text-align: center;
+    
+
+}
+
+.agrupar{ 
+    background: white; 
+    width: 1000px;
+    margin: 20px auto;
+
+    font-family: sans-serif;
+}
+
+
+
+header, nav, body, footer, section,aside, article,hgroup{
+    
+    display: block;
+
+}
+
+
+img{
+    width: 200px;
+    margin: auto;
+    display: block;     
+
+}
+
+.menu li{
+    list-style: none;
+    display: inline-block;
+    padding: 15px;
+    border: 1px black;
+}
+
+
+.titulo{ 
+    
+    background-color: #fffbb9 ;
+    margin-top: none;
+   
+    margin: 10px;
+    text-decoration-line: underline;
+    padding: 7px;
+
+           
+
+
+
+}
+
+section{
+
+    
+    padding: 15px;
+    margin: 20px;
+    width: 640px;
+    float: left;
+
+
+
+}
+
+.tituloi{
+    text-align: center;
+    margin: 5px ;
+    text-decoration-line: underline ;
+    
+    
+}
+
+
+.texto{
+
+    background: rgb(231, 231, 231);
+}
+
+
+.columna{
+
+    float: right;
+    width: 230px;
+    padding: 10px;
+    margin: 20px;
+    background: rgb(231, 231, 231);
+
+   
+    text-align: center;
+
+}
+
+.pie {
+    margin: auto;
+    background: #fffbb9;
+    clear: both;
+
+}
+
+h2{
+    text-decoration: underline;
+}
+
+article{
+    border: 1px solid;
+    margin: 15px;
+}
+
+.barra{
+    background:  rgb(231, 231, 231) ;
+
+}
